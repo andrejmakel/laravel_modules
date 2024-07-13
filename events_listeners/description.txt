@@ -1,0 +1,7 @@
+Separate logic from main app flow (Sending a welcome email after user registration).
+
+Multiple actions for single event (After a user logs in, you might want to: Update the last login timestamp, Log the login activity, Check and update the user's account status.)
+
+Backround processing (Processing a large file upload)
+
+https://laravel.com/docs/11.x/events
